@@ -1,0 +1,24 @@
+<style type="text/css">
+
+.header{
+background-image: linear-gradient(to right, #9900ff , #6699ff);
+}
+
+h1{ 
+    font-family: verdana;
+    font-style: oblique;
+    padding-top: 25px;
+    padding-left:10px;
+  background: -webkit-linear-gradient(#02bfff,#ce567c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+input{
+	margin: 2px;
+	margin-bottom: 5px;
+
+}
+.form_wrap{
+	margin:100px;
+}
+</style>
